@@ -1,7 +1,5 @@
 # 🏢 Amdox ERP — AI-Powered Cloud ERP Suite
 
-**Project Code:** AMX-ERP-2026-04 | **Version:** 1.0.0 | **April 2026**
-
 > Enterprise Resource Planning platform with AI-driven demand forecasting, multi-tenant authentication, finance management, HR & payroll, supply chain automation, and real-time dashboards.
 
 ---
@@ -465,22 +463,6 @@ curl https://your-api-domain.com/api/v1/health
 
 ---
 
-## 👤 Default Credentials
-
-After running `pnpm db:seed`:
-
-| Role | Email | Password |
-|------|-------|----------|
-| Super Admin | admin@amdox.com | Admin@123 |
-| Accountant | finance@amdox.com | Admin@123 |
-| HR Manager | hr@amdox.com | Admin@123 |
-| Supply Chain | supply@amdox.com | Admin@123 |
-| Manager | manager@amdox.com | Admin@123 |
-
-> ⚠️ **Change all passwords immediately in production!**
-
----
-
 ## 📊 Non-Functional Requirements
 
 | Requirement | Target | How |
@@ -508,19 +490,3 @@ pnpm db:studio        # Open Prisma Studio GUI
 ```
 
 ---
-
-## 📄 Submission
-
-**Naming convention:** `YourName_AMX_ERP_AmdoxTechnologies_April2026.zip`
-
-**Deliverables:**
-- [x] Project Report (PDF) — `AMX-ERP-2026-04`
-- [x] GitHub Repository — this repo
-- [x] README.md — this file
-- [ ] Live Demo URL — deploy and add here
-- [ ] Demo Video — 5–7 min walkthrough on Loom/YouTube
-
----
-
-*Built with precision and modern engineering principles*
-*Amdox Technologies • Engineering Division • April 2026*
